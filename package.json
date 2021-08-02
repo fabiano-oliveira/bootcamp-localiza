@@ -1,0 +1,14 @@
+{
+  "name": "localiza",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Fabiano Oliveira",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.0.3"
+  }
+}
