@@ -5,4 +5,4 @@ Repositório com os códigos de exemplos, projetos e desafios do bootcamp [Local
 
 ## Projetos 
 
-* Projeto 1 - [Recriando a Interface do Netflix] (src/Projeto1) 
+* Projeto 1 - [Recriando a Interface do Netflix](src/Projeto1) 
