@@ -31,6 +31,8 @@ header .logo {
     font-size: 40px;
     text-transform: uppercase;
     margin-left: 10px;
+ /*   background: linear-gradient(to right, green 0% 17px, yellow 65px, black 65px 100%);*/
+  
 }
 
 header nav a {
