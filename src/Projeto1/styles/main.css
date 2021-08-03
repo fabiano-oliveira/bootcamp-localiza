@@ -1,6 +1,7 @@
 :root{
     --cor-primaria: #E50914;
     --cor-secundaria: #AAA;
+    --cor-destaque: #fff;
     --cor-fundo: #141414;
 }
 
@@ -14,6 +15,7 @@
 body{ 
     background: var(--cor-fundo);
     font-family: 'Times New Roman', Times, serif;
+    color: var(--cor-destaque);
 }
 
 header .container{ 
@@ -38,5 +40,5 @@ header nav a {
 }
 
 header nav a:hover{
-    color: #fff;
+    color:var(--cor-destaque);
 }
