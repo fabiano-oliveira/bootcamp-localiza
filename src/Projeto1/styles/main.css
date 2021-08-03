@@ -14,7 +14,7 @@
 
 body{ 
     background: var(--cor-fundo);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', Times, serif;
     color: var(--cor-destaque);
 }
 
