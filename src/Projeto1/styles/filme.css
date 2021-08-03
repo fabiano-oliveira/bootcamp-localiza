@@ -23,6 +23,11 @@
 .filme-principal .descricao {
     margin-top: 10px;
     margin-bottom: 40px;
+    text-align: justify;
+}
+
+.filme-principal .container {
+    width: 60%;
 }
 
 .botao {

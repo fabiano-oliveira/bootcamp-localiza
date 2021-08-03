@@ -42,3 +42,8 @@ header nav a {
 header nav a:hover{
     color:var(--cor-destaque);
 }
+
+.container {
+    margin-left: 20px;
+    margin-right: 20px;
+}
